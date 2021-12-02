@@ -1,0 +1,50 @@
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\bin\Debug\Manage Store.exe.config
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\bin\Debug\Manage Store.exe
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\bin\Debug\Manage Store.pdb
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage Store.csprojAssemblyReference.cache
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmLogin.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.Properties.Resources.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage Store.csproj.GenerateResource.cache
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage Store.csproj.CoreCompileInputs.cache
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage Store.exe
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage Store.pdb
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\bin\Debug\FontAwesome.Sharp.dll
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage Store.csproj.CopyComplete
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmMainn.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmGoods.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmEmployee.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\bin\Debug\Guna.UI2.dll
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmBilling.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmContract.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmChart.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmAddEmployee.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmAddGoods.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmEmployeeDetails.resources
+D:\HK1-Năm 3\Hệ QT CSDL\Manage Store\Manage Store\Manage Store\obj\Debug\Manage_Store.frmGoodsDetail.resources
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\Manage Store.exe.config
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\Manage Store.exe
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\Manage Store.pdb
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\BLL.dll
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\FontAwesome.Sharp.dll
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\Guna.UI2.dll
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\DAL.dll
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\BLL.pdb
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\DAL.pdb
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage Store.csproj.AssemblyReference.cache
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmLogin.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmGoods.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmEmployee.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmEmployeeDetails.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmAddEmployee.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmAddGoods.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmBilling.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmMainn.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmContract.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmChart.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.frmGoodsDetail.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.Properties.Resources.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage Store.csproj.GenerateResource.cache
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage Store.csproj.CoreCompileInputs.cache
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage Store.csproj.CopyComplete
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage Store.exe
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage Store.pdb

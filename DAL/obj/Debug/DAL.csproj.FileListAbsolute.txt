@@ -1,0 +1,12 @@
+D:\Document\~project\Manager-Store\DAL\bin\Debug\DAL.dll
+D:\Document\~project\Manager-Store\DAL\bin\Debug\DAL.pdb
+D:\Document\~project\Manager-Store\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Document\~project\Manager-Store\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Document\~project\Manager-Store\DAL\obj\Debug\DAL.dll
+D:\Document\~project\Manager-Store\DAL\obj\Debug\DAL.pdb
+D:\~project\Manager-Store\DAL\bin\Debug\DAL.dll
+D:\~project\Manager-Store\DAL\bin\Debug\DAL.pdb
+D:\~project\Manager-Store\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\~project\Manager-Store\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\~project\Manager-Store\DAL\obj\Debug\DAL.dll
+D:\~project\Manager-Store\DAL\obj\Debug\DAL.pdb

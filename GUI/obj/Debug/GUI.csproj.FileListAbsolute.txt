@@ -1,0 +1,94 @@
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.frmGoods.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.frmEmployee.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.frmEmployeeDetails.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.frmAddEmployee.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.frmAddGoods.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.frmMainn.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.frmContract.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.frmChart.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.frmGoodsDetail.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage_Store.Properties.Resources.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage Store.exe
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\Manage Store.pdb
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\Manage Store.exe.config
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\Manage Store.exe
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\Manage Store.pdb
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\BLL.dll
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\FontAwesome.Sharp.dll
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\Guna.UI2.dll
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\DAL.dll
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\BLL.pdb
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\DAL.pdb
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.frmBilling.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.csproj.CopyComplete
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.fMain.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.fLogin.resources
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\DTO.dll
+D:\Document\~project\Manager-Store\Manage Store\bin\Debug\DTO.pdb
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.fHome.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.fGoods.resources
+D:\Document\~project\Manager-Store\Manage Store\obj\Debug\GUI.DefinedFramework.Form1.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.fGoods.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.fHome.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.fMain.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.fLogin.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\Manage_Store.Properties.Resources.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Document\~project\Manager-Store\GUI\obj\Debug\Manage Store.exe
+D:\Document\~project\Manager-Store\GUI\obj\Debug\Manage Store.pdb
+D:\Document\~project\Manager-Store\GUI\bin\Debug\Manage Store.exe.config
+D:\Document\~project\Manager-Store\GUI\bin\Debug\Manage Store.exe
+D:\Document\~project\Manager-Store\GUI\bin\Debug\Manage Store.pdb
+D:\Document\~project\Manager-Store\GUI\bin\Debug\BLL.dll
+D:\Document\~project\Manager-Store\GUI\bin\Debug\DTO.dll
+D:\Document\~project\Manager-Store\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\Document\~project\Manager-Store\GUI\bin\Debug\Guna.UI2.dll
+D:\Document\~project\Manager-Store\GUI\bin\Debug\DAL.dll
+D:\Document\~project\Manager-Store\GUI\bin\Debug\BLL.pdb
+D:\Document\~project\Manager-Store\GUI\bin\Debug\DTO.pdb
+D:\Document\~project\Manager-Store\GUI\bin\Debug\DAL.pdb
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.fEmployee.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.fBill.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.fContract.resources
+D:\Document\~project\Manager-Store\GUI\bin\Debug\MstGrid.dll
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.DefinedFramework.GoodsCell.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.DefinedFramework.PanelGoodsInCart.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.DefinedFramework.GoodsView.resources
+D:\~project\Manager-Store\GUI\bin\Debug\Manage Store.exe.config
+D:\~project\Manager-Store\GUI\bin\Debug\Manage Store.exe
+D:\~project\Manager-Store\GUI\bin\Debug\Manage Store.pdb
+D:\~project\Manager-Store\GUI\bin\Debug\BLL.dll
+D:\~project\Manager-Store\GUI\bin\Debug\DTO.dll
+D:\~project\Manager-Store\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\~project\Manager-Store\GUI\bin\Debug\Guna.UI2.dll
+D:\~project\Manager-Store\GUI\bin\Debug\MstGrid.dll
+D:\~project\Manager-Store\GUI\bin\Debug\DAL.dll
+D:\~project\Manager-Store\GUI\bin\Debug\BLL.pdb
+D:\~project\Manager-Store\GUI\bin\Debug\DTO.pdb
+D:\~project\Manager-Store\GUI\bin\Debug\DAL.pdb
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.DefinedFramework.GoodsCell.resources
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.DefinedFramework.GoodsView.resources
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.DefinedFramework.PanelGoodsInCart.resources
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.fBill.resources
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.fContract.resources
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.fEmployee.resources
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.fGoods.resources
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.fHome.resources
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.fMain.resources
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.fLogin.resources
+D:\~project\Manager-Store\GUI\obj\Debug\Manage_Store.Properties.Resources.resources
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\~project\Manager-Store\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\~project\Manager-Store\GUI\obj\Debug\Manage Store.exe
+D:\~project\Manager-Store\GUI\obj\Debug\Manage Store.pdb
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.fCashFlow.resources
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Document\~project\Manager-Store\GUI\obj\Debug\GUI.fProvider.resources

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f6fd238-857d-407c-a66a-34d67f1bffbc": {
+      "ProjectGuid": "3f6fd238-857d-407c-a66a-34d67f1bffbc",
+      "DisplayName": "GUI",
+      "ColorIndex": 0
+    },
+    "13f8812b-dab1-48ab-82e5-462d46af584a": {
+      "ProjectGuid": "13f8812b-dab1-48ab-82e5-462d46af584a",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
