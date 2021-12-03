@@ -114,6 +114,7 @@ namespace GUI
 
             //cmsAccount.Items["myProfileToolStripMenuItem"].Click += new EventHandler(OpenProfile);
             cmsAccount.Items["logOutToolStripMenuItem"].Click += new EventHandler(Logout);
+            CollapseAndExpand(null, null);
         }
 
         private void btnClose_Click(object sender, EventArgs e)
@@ -146,7 +147,6 @@ namespace GUI
             pnNav.Width = expandSize;
             pnContainer.Width = Width - pnNav.Width;
             pnHeader.Height = (int)(0.06 * Height);
-            CollapseAndExpand(null, null);
         }
 
         private void CollapseAndExpand(object sender, EventArgs e)
